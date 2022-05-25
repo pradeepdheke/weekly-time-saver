@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(to left, rgb(168, 135, 26, 0.6), rgb(16, 204, 176, 0.621));
+}
+
+.task-table {
+    background: rgba(86, 80, 70, 0.399);
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.5rem 1rem rgba(39, 54, 189, 0.57);
+    /* backdrop-filter: blur(2px); */
+}
